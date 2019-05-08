@@ -1,3 +1,6 @@
+Simple react app meant to simulate a to do list. Currently uses json placeholder to give a backend database. Mainly built as an exercise.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
